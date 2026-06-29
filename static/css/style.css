@@ -345,6 +345,7 @@ nav {
 .it-4 { background: var(--c-sky-bg);     color: var(--c-sky-deep);   border-color: var(--c-sky); }
 .it-5 { background: var(--c-mint-bg);    color: var(--c-mint-deep);  border-color: var(--c-mint); }
 .it-6 { background: #f5f0ff;             color: #7045af;             border-color: #cbbfee; }
+.it-7 { background: #fef7ed;             color: #c47a3a;             border-color: #f0c8a0; }
 
 /* ============================================================
    PUBLICATIONS
