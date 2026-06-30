@@ -404,8 +404,11 @@
      FOOTER
 ============================================================ -->
 <footer class="site-footer">
-    <p>© 2025 Shuhong Wang &nbsp;·&nbsp; City University of Hong Kong</p>
+    <p>© <span id="copy-year">2026</span> Shuhong Wang &nbsp;·&nbsp; City University of Hong Kong</p>
 </footer>
+<script>
+  document.getElementById('copy-year').textContent = new Date().getFullYear();
+</script>
 
 <script>
     (function () {
