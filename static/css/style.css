@@ -351,9 +351,10 @@ nav {
    PUBLICATIONS
 ============================================================ */
 .pub-note {
-    font-size: 0.7rem;
-    color: #888;
+    font-size: 0.62rem;
+    color: #999;
     margin-bottom: 10px;
+    font-style: italic;
 }
 
 .pub-list { display: flex; flex-direction: column; }
