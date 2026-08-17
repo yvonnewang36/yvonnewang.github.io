@@ -250,6 +250,7 @@ nav {
 }
 
 .s-icon i { line-height: 1; }
+.s-icon svg { width: 17px; height: 17px; display: block; }
 
 .s-title {
     font-family: 'EB Garamond', Georgia, serif;
@@ -487,6 +488,13 @@ nav {
 .conf-award i {
     font-size: 0.65rem;
     margin-right: 3px;
+}
+
+.conf-award svg {
+    width: 11px;
+    height: 11px;
+    margin-right: 3px;
+    vertical-align: -1px;
 }
 
 .conf-year {

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# Editors / logs
+*.log
+*.swp
+.idea/
+.vscode/
+
+# Saved-page / scraped reference artifacts
+(index)
+historic_files/
